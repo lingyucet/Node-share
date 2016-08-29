@@ -1,3 +1,13 @@
+gulp for compress
+
+git  clone https://github.com/lingyucet/Node-share.git   // 下载
+
+npm install  //安装
+
+gulp testWatch //执行 监控
+
+
+提示：git的使用方法
 
 mkdir  Node-share  //创建版本库
 cd     Node-share
